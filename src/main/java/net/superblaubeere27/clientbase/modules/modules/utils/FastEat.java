@@ -21,7 +21,7 @@ import net.superblaubeere27.clientbase.modules.ModuleCategory;
 
 public class FastEat extends Module {
     public FastEat() {
-        super("FastEat", "aaaaaaaa", ModuleCategory.UTILS);
+        super("FastEat", "aaaaaaaaa", ModuleCategory.UTILS);
     }
     
     
